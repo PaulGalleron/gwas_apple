@@ -23,3 +23,5 @@ This repository contains R scripts, for achieving reproducible data analysis and
 * Accessible
 
 * Interoperable
+
+* Reproducible
