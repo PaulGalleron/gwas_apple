@@ -1,0 +1,11 @@
+# ignore all files in data/
+data/*
+
+# optionally, keep some specific files in the directories
+!**/data/.gitkeep
+
+# ignore all files
+gwas/*
+
+# optionally, keep some specific files in the directories
+!**/gwas/gwas_demo.R
